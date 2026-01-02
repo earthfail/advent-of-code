@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-d="day3"
+d="day9"
 if [[ $1 -eq 1 ]]; then
     # echo "1",$1,"1"
     ./$d < test_$d.txt
